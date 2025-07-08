@@ -1646,7 +1646,7 @@ label {
 }
 .cs-moving_text_wrap.cs-type2 .cs-moving_text {
   background: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(103.33%, rgba(255, 255, 255, 0)));
-  background: linear-gradient(180deg, #fff 0%, rgba(255, 255, 255, 0) 103.33%);
+  background: linear-gradient(180deg, #26569dff 0%, rgba(255, 255, 255, 0) 103.33%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -4011,7 +4011,7 @@ label {
 .cs-side_header .cs-side_header_in {
   width: 500px;
   height: 100vh;
-  background-color: #26569dff;
+  background-color: #ecececff;
   -webkit-box-flex: 0;
       -ms-flex: none;
           flex: none;
@@ -4035,6 +4035,7 @@ label {
 }
 .cs-side_header .cs-side_header_box {
   padding: 35px 0;
+  color: #26569dff;
 }
 .cs-side_header .cs-close {
   opacity: 0;
@@ -4420,7 +4421,7 @@ label {
     position: absolute;
     width: 100vw;
     left: -15px;
-    background-color: #ecececff;
+    background-color: #26569dff;
     padding: 10px 0;
     display: none;
     top: 100%;
